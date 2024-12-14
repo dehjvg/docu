@@ -33,7 +33,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'nl'],
   },
 
   presets: [
@@ -45,7 +45,7 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/dehjvg/docu/blob/master/',
         },
         blog: false,
         theme: {
@@ -63,7 +63,7 @@ const config = {
       navbar: {
         title: 'GC Farming',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'GC Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -71,10 +71,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Explanation',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            type: 'localeDropdown',
+          },
+          {
+            href: 'https://github.com/dehjvg/docu',
             label: 'GitHub',
             position: 'right',
           },
@@ -87,7 +90,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Explanation',
                 to: '/docs/intro',
               },
             ],
@@ -96,34 +99,13 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog1',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://discord.gg/fV9SBfB',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Global Cargo, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Global Cargo Farming Intro
 
-Let's go **Docusaurus in less than 5 minutes**.
+Let's NL go **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
