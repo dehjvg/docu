@@ -14,6 +14,6 @@ Contracters can help out farmers by doing Contracts or doing exports. Contracter
 ## Earn your money
 
 As sayed above you can grow to your own farm with making money by doing things for other farmers. When you reach 150.000 you can request to own your own farm. (you keep that money and you will get a extra 800.000 to start with.
-At the moment of writing we have 3 server and every server can hold 1 HR farm + 6 Farms.  wehn all 3 servers hve more then 4 farms on it you can chooche to sponser a new server or join on 1 of the servers that have still room. more info about Servers can be found under {Servers](https://blajakfdno.com)
+At the moment of writing we have 3 server and every server can hold 1 HR farm + 6 Farms.  wehn all 3 servers hve more then 4 farms on it you can chooche to sponser a new server or join on 1 of the servers that have still room. more info about Servers can be found under [Servers](https://blajakfdno.com)
 
 How you can do a contract or a export can be found in the other documents.
