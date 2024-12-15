@@ -6,26 +6,29 @@ sidebar_position: 3
 
 ##What is a export?
 
-A export in farming is a farmer selling his crops to Global Cargo
+An export in farming simulator refers to a farm Manager selling their crops to Global Cargo for distribution to global markets.
+Once the export is made, it will be added to a TruckWeb mission, meaning the crops need to be transported via Euro Truck Simulator or American Truck Simulator in order for the farmer to be paid.
 
+## What is in it for me?
 
-## and how can i make money on it?
+As a Contractor, you need to check the amounts of crops and sell them in farming. 
+An Export always pays you 5,000 and is usually completed within the hour, making it the easiest way to make money as a contractor. 
+Farmers who don’t have their farm on that server can also complete these exports.
+Note: Export on a server where you are farm manager are not allowed!
 
-As a contractor you need to check the ammounts of crops and sell them in farming.
-A Export always pays you 5000 And mostly is done with in the hour so this is the most easy way to make money for you as contractor. (farmers that dont have there farm on that server can do them as well)
+## How does an Export work?
 
+In the Farming-contractor Discord channel, a message is posted whenever a new export is available, or you can check TrucksWeb for a list of open exports that can still be done.
 
-## How does this work?
+Exports are always completed by joining the correct server and the Global Cargo HR Farm.
 
-In the discord [Farming-contractor](https://discord.com/channels/730699944918253604/1241288634217529374) channel there is a message posted when there is a new export avaible to be done or you can check [trucksweb](https://trucksweb.globalcargovtc.nl/farming/export/overview/) if there are still open exports that can be done.
+Steps for completing an export:
 
-Exports are always done by joining the ```Global Cargo HR Farm```
-- Before you accept the export check if you see the crop and the right amount (or more) in the export building
-- if its correct you can accept the export.
-- then drive the ammount stated in the export to the sell point be sure your in the ```Global Cargo HR Farm```
-- if you working on a export and need to go suddenly be sure to remember how much you did and keep the export open so you compleet it when your back
-- When you compleet the export the export will be transport to our vtc part. And you will get payed for your work
-
+1. Before accepting the export, check if you see the correct crop and the right amount (or more) in the export building.
+   If the crop and quantity are correct, you can accept the export.
+2. Drive the required amount of crops to the designated sell point, making sure you're in the Global Cargo HR Farm.
+3. If you're working on an export and need to leave suddenly, remember how much you've already transported and keep the export open so you can complete it when you return.( We ask you not to leave the contract open for to long).
+4. Once you complete the export, the crops will be transported to our VTC (Virtual Trucking Company) part, and you will get paid for your work.
 
 
 This is my **first Docusaurus document**!
