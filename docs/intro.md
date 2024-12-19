@@ -2,46 +2,24 @@
 sidebar_position: 1
 ---
 
-# Global Cargo Farming Intro
+# Global Cargo Farming 
 
-Let's go **Docusaurus in less than 5 minutes**.
+Global Cargo is hosting multiple server for the members of the vtc.
 
 ## Getting Started
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- First of all at this point you have to be a member of our vtc https://www.globalcargovtc.com/
+- When you are a member you can give your self the farming roll in #Rank-change ( https://discord.com/channels/730699944918253604/730759351802921010 )
+- when you have that roll at the bottum of the channel list you will find a farming simulator channels.
+- be sure you read the rules befor applying https://trucksweb.globalcargovtc.nl/farming-rules
+- When readed you can apply at https://trucksweb.globalcargovtc.nl/farming-apply
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- when you got accepted (you will be notifyed)
+- you can start downloading the mods (we dont use dlc`s but we do use mods)
+- You can find them in the discord channel farming-downloads
+- then your all set to start working as a contractor
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### Start working
+How you can start working read the information about contractors.
