@@ -18,7 +18,7 @@ Note: Export on a server where you are farm manager are not allowed!
 
 ## How does an Export work?
 
-In the Farming-contractor Discord channel, a message is posted whenever a new export is available, or you can check TrucksWeb for a list of open exports that can still be done.
+In the Farming-contractor Discord channel, a message is posted whenever a new export is available, or you can check [TrucksWeb](https://trucksweb.globalcargovtc.com/farming/export/overview/) for a list of open exports that can still be done.
 
 Exports are always completed by joining the correct server and the Global Cargo HR Farm.
 
@@ -29,43 +29,3 @@ Steps for completing an export:
 2. Drive the required amount of crops to the designated sell point, making sure you're in the Global Cargo HR Farm.
 3. If you're working on an export and need to leave suddenly, remember how much you've already transported and keep the export open so you can complete it when you return.( We ask you not to leave the contract open for to long).
 4. Once you complete the export, the crops will be transported to our VTC (Virtual Trucking Company) part, and you will get paid for your work.
-
-
-This is my **first Docusaurus document**!
-```
-
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
-
-## Configure the Sidebar
-
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-export default {
-  tutorialSidebar: [
-    'intro',
-    // highlight-next-line
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-};
-```
