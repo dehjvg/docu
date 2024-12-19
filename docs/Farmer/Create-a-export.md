@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# Create a Export
 
 Docusaurus can manage multiple versions of your docs.
 
