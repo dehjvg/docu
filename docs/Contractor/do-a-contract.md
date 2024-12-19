@@ -7,40 +7,28 @@ keywords:
 
 # Do a Contract
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+##What is a contract?
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+An contract in farming simulator refers to do work for a other farmer
+Once the contract is made, You can accept it and start working if your not able to compleet the job in one go simple click stop working again and someone else can finish the job or you can continue on a later point
 
-## Do a Contract
+## What is in it for me?
 
-Create a file at `src/pages/my-react-page.js`:
+As a Contractor, you need to make money before you can start your own farm. 
+The amount a contract is paying can change but post farmers do pay 5000 for a hour work some contracts can take several hours
+Farmers who don’t have their farm on that server can also help on contracts.
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+## How does an Contract work?
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+In the Farming-contractor Discord channel, a message is posted whenever a new contract is available, or you can check [TrucksWeb](https://trucksweb.globalcargovtc.com/farming/contract/overview/contracts) for a list of open contracts that can still be done.
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+Every Contract will be diffrent as they are made by the farmer and they will tell you in the contract what they expect from the Contractor(you)
+Contracts that have the satus new or 
 
-## Create your first Markdown Page
+Steps for completing an contract:
 
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+1. Read the contract see whats needs to be done as long as the contract does not have the status waiting payment it should be still avaible.
+2. Login on the server where the contract is posted for and join the farm that posted it.
+3. Press start working on trucksweb when you are ready to start. when done or taking a long brake (more then 10 min or multiple breaks) press stop working on the site again so the farmer knows how long you worked.
+4. If all work is completed and you pressed stop working you can press work done. if its not done yet dont press it so someone else can take it.
+5. when the work is compleeted the farmer will pay you as soon aspossible and the money will be added to your farm account on trucksweb.
