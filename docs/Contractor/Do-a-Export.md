@@ -25,6 +25,7 @@ Exports are always completed by joining the correct server and the Global Cargo 
 Steps for completing an export:
 
 1. Before accepting the export, check if you see the correct crop and the right amount (or more) in the export building.
+   ![export building](./images/export.png)
    If the crop and quantity are correct, you can accept the export.
 2. Drive the required amount of crops to the designated sell point, making sure you're in the Global Cargo HR Farm.
 3. If you're working on an export and need to leave suddenly, remember how much you've already transported and keep the export open so you can complete it when you return.( We ask you not to leave the contract open for to long).
