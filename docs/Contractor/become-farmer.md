@@ -4,31 +4,13 @@ sidebar_position: 4
 
 # Become farmer
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+When you made 150.000 as a contractor you can become a Farmer. You can request it by asking it in the farming channel or send hjvg a pm.
+Before you send a message to become a farmer see on which server you want to be or if you want to sponsor a new server (more about this in the server section)
 
-## Create your first Post
 
-Create a file at `blog/2021-02-28-greetings.md`:
+## How does it work
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+If you earned 150.000 as a contractor you have showen to us your here for the long term and not just for a day as setting up farms and servers is costing us time as well. Ofcourse now you want to start right away we understand that but it can still take a day or 2 as you and the admin setting you up needs to be online at the same time.
 
-Congratulations, you have made your first post!
+So You did look on other servers if there was still room farming 25 offers 6 farm slots +1 for Global Cargo HR Farm. And we have time to set you up you will get the farm name you selected when applying in game. As we are happy you made it till 150.000 or more and its your first time starting a farm you will recive 800.000 from us to start. When we set you up you will get the full right for your farm (dont leave your farm anymore as that will let your rights disappear) with the money you have you can do what you want buy fields and equipment. Your responsible for your farm so you decide how to run your farm with in the rules of course.
 
-Feel free to play around and edit this post as much as you like.2
-```
-
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
