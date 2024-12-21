@@ -81,7 +81,7 @@ const config = {
             type: 'localeDropdown',
           },
           {
-            href: 'https://github.com/dehjvg/docu',
+            href: 'https://farmwiki.globalcargovtc.com/',
             label: 'GitHub',
             position: 'right',
           },
