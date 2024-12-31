@@ -5,43 +5,43 @@ keywords:
   - Contractor 
 ---
 
-# Do a Contract
+# Doe een contract
 
-##What is a contract?
+## Wat is een contract?
 
-An contract in farming simulator refers to do work for a other farmer
-Once the contract is made, You can accept it and start working if your not able to compleet the job in one go simple click stop working again and someone else can finish the job or you can continue on a later point
+Een contract in farming simulator betekent werk doen voor een andere boer.
+Zodra het contract is gemaakt, kun je het accepteren en beginnen met werken als je niet in staat bent om het werk in één keer af te maken. Klik dan op stop met werken en iemand anders kan het werk afmaken of je kunt op een later punt verder gaan.
 
-## What is in it for me?
+## Wat zit er voor mij in?
 
-As a Contractor, you need to make money before you can start your own farm. 
-The amount a contract is paying can change but post farmers do pay 5000 for a hour work some contracts can take several hours
-Farmers who don’t have their farm on that server can also help on contracts.
+Als loonwerker moet je geld verdienen voordat je je eigen boerderij kunt beginnen.
+Het bedrag dat een contract oplevert kan veranderen, maar boeren betalen 5000 voor een uur werk, sommige contracten kunnen meerdere uren duren.
+Boeren die hun boerderij niet op die server hebben, kunnen ook helpen met contracten.
 
-## How does an Contract work?
+## Hoe werkt een contract?
 
-In the Farming-contractor Discord channel, a message is posted whenever a new contract is available, or you can check [TrucksWeb](https://trucksweb.globalcargovtc.com/farming/contract/overview/contracts) for a list of open contracts that can still be done.
+In het Farming-contractor Discord kanaal wordt een bericht gepost wanneer er een nieuw contract beschikbaar is, of je kunt kijken op [TrucksWeb](https://trucksweb.globalcargovtc.com/farming/contract/overview/contracts) voor een lijst met open contracten die nog gedaan kunnen worden.
 
 ![discord](./images/discord.png)
 
-On discord you can easy click on the blue Farming Contract text to go to the contract right away and see more details.
+Op discord kun je eenvoudig op de blauwe Farming Contract tekst klikken om meteen naar het contract te gaan en meer details te zien.
 
-Every Contract will be diffrent as they are made by the farmer and they will tell you in the contract what they expect from the Contractor(you)
-Contracts that have the status new or accepted can be accepted if the amount of currently working people are not reached yet (if someone pressed stop working it can be taken again)
+Elk contract zal anders zijn omdat ze gemaakt zijn door de boer en ze zullen je in het contract vertellen wat ze verwachten van de contractant (jou)
+Contracten die de status nieuw of geaccepteerd hebben kunnen geaccepteerd worden als het aantal werkende mensen nog niet is bereikt (als iemand op stoppen met werken drukt kan het contract weer aangenomen worden).
 
 ![discord](./images/contract-info.png)
 
-The picture above shows when the contract got posted, which farm that needs help, if its still new, accepted or waiting for payment, how many people can work on it, server name, and payment for a hour work.
-Below this you will find a explanation from the farmer what you need to do and if you scroll all the way to the bottom of the page you can see if someone is still working on it or did stop working.
+De afbeelding hierboven laat zien wanneer het contract is geplaatst, welke boerderij hulp nodig heeft, of het nog nieuw is, geaccepteerd is of wacht op betaling, hoeveel mensen eraan kunnen werken, servernaam en betaling voor een uur werk.
+Daaronder staat een uitleg van de boer wat je moet doen en als je helemaal naar de onderkant van de pagina scrollt kun je zien of er nog iemand aan werkt of dat er iemand mee is gestopt.
 
-When doing the contract be sure you use the equipment of the farm you are helping.
+Als je het contract uitvoert, zorg er dan voor dat je de apparatuur gebruikt van de boerderij die je helpt.
 
 
-## Steps for completing an contract:
+## Stappen voor het voltooien van een contract:
 
-1. Read the contract see whats needs to be done as long as the contract does not have the status waiting payment it should be still avaible.
-2. Login on the server where the contract is posted for and join the farm that posted it.
-3. Press start working on Trucksweb when you are ready to start working. 
-4. When done or taking a long brake (more then 10 min or multiple breaks) press stop working on the site again so the farmer knows how long you worked.
-5. If all work is completed and you pressed stop working you can press work completed. if its not done yet dont press it so someone else can take it.
-6. when the work is completed the farmer will pay you as soon as possible and the money will be added to your farm account on trucksweb.
+1. Lees het contract om te zien wat er gedaan moet worden zolang het contract niet de status “wacht op betaling” heeft zou het nog steeds beschikbaar moeten zijn.
+2. Log in op de server waar het contract voor is geplaatst en voeg je bij de farm die het contract heeft geplaatst.
+3. Druk op start werken op Trucksweb wanneer je klaar bent om te beginnen met werken.
+4. Als je klaar bent of een lange pauze hebt genomen (meer dan 10 minuten of meerdere pauzes) druk dan weer op stop zodat de boer weet hoelang je gewerkt hebt.
+5. Als al het werk klaar is en je hebt op stop gedrukt, kun je op werk voltooid drukken. Als het werk nog niet klaar is, druk je er niet op zodat iemand anders het kan overnemen.
+6. Als het werk klaar is zal de boer je zo snel mogelijk betalen en het geld zal worden toegevoegd aan je boerderij account op trucksweb.

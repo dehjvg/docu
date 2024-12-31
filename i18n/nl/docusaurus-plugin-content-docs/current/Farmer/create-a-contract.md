@@ -2,38 +2,40 @@
 sidebar_position: 2
 ---
 
-# Create a Contract
+# Een contract maken
 
-## Contracts
+## Contracten
 
-Contracts are here to get help on your farm. when you have a lot to do or when your not able to be online that day. Contractors do like to see contracts as thats there way to make money and be able to start there own farm. but also farmers of other servers that have nothing to do or want to make a extra bit of money can do contract.
+Contracten zijn er om hulp te krijgen op je boerderij als je veel te doen hebt of als je die dag niet online kunt zijn. Aannemers zien graag contracten omdat dat hun manier is om geld te verdienen en hun eigen boerderij te beginnen. maar ook boeren van andere servers die niets te doen hebben of een extra beetje geld willen verdienen kunnen een contract afsluiten.
 
-## how to create a contract
+## hoe maak ik een contract
 
-to be honest this is pretty simple.
+Om eerlijk te zijn is dit vrij simpel.
 
-1. [create a contract](https://trucksweb.globalcargovtc.nl/farming/create-contract) on the site
-2. fill in a title that suits the work
-3. the amount you want to pay for each hour work (most do 5000)
-4. amount of people that could work on it at the same time
-5. explain the work that has to be done so its 100% for the contractor what they need to do and where things need to go.
-6. by pressing send its posted.
+1. [maak een contract](https://trucksweb.globalcargovtc.nl/farming/create-contract) op de site
+2. vul een titel in die bij het werk past
+3. het bedrag dat u wilt betalen voor elk uur werk (de meesten doen 5000)
+4. het aantal mensen dat er tegelijkertijd aan kan werken
+5. leg het werk uit dat gedaan moet worden zodat het 100% duidelijk is voor de contractor wat hij moet doen en waar dingen heen moeten.
+6. als je op verzenden drukt, wordt het gepost.
 
-7. you can always edit a contract go to your contract
-8. at the top you see a small wrench (behind the title)
-![change contract](./images/edit-contract.png)
-watch out the Amount of people that can work on it will jump back to 1
+7. je kunt een contract altijd bewerken ga naar je contract
+8. bovenaan zie je een kleine moersleutel (achter de titel)
+   ![contract wijzigen](./images/edit-contract.png)
+   Let op, het aantal mensen dat eraan kan werken springt terug naar 1.
 
 
-## paying contractor
-1. When the work is completed you need to pay the contractor.
-2. you go to the contract you posted if you scroll all the way down and you will see the following:
-![pay contractor](./images/pay-contractor.png)
-you see the green button to go to the pay overview. Always check comments if a contractor did ad somting somtimes they do forget to stop or start then you need to change the time when paying a bit. If you think the contractor did a really good job your allowd to give them a small bonus.
-on this picture you see 3 different contractors/farmers did work for you 1 did stop in between thats why he is 2 times in the list.
-3. when pressing the green pay contractor button you will go to the next screen
-![pay work](./images/pay-work.png)
-As you can see all info is filled in automatically so if there was no comment and time is correct you can click send right away.
-4. this you need to repeat for every person that did work for you. when you payed them it will look like this
-![payed contractor](./images/payment-done.png)
-5. when everyone is payed at the top of the contract you can press compleet contract
+## Betaal Contractor
+1. Als het werk klaar is, moet je de contractor betalen.
+2. Je gaat naar het contract dat je gepost hebt als je helemaal naar beneden scrolt en je ziet het volgende:
+   ![aannemer betalen](./images/pay-contractor.png)
+
+   zie je de groene knop om naar het betalingsoverzicht te gaan. Controleer altijd de opmerkingen als een aannemer iets heeft aangepast. Soms vergeten ze te stoppen of te starten, dan moet je de tijd veranderen als je een beetje betaalt. Als je vindt dat de aannemer goed werk heeft geleverd, kun je hem een kleine bonus geven.
+   Op deze afbeelding zie je dat 3 verschillende aannemers/farmers voor je werkten. 1 van hen stopte tussendoor, daarom staat hij 2 keer in de lijst.
+3. Als je op de groene betaal contractor knop drukt ga je naar het volgende scherm
+   ![werk betalen](./images/pay-work.png)
+
+   Zoals je kunt zien wordt alle informatie automatisch ingevuld, dus als er geen commentaar was en de tijd klopt, kun je meteen op verzenden klikken.
+4. Dit moet je herhalen voor elke persoon die werk voor je gedaan heeft. Wanneer je ze betaald hebt, ziet het er als volgt uit
+   ![Betaalde aannemer](./images/payment-done.png)
+5. Als iedereen betaald is kun je bovenaan het contract op compleet contract drukken.
