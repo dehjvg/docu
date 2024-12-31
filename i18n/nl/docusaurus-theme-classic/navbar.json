@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "GC Farming",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "GC Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Explanation": {
+    "message": "Explanation",
+    "description": "Navbar item with label Explanation"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

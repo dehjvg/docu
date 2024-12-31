@@ -37,7 +37,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-   locales: ['en'],
+   locales: ['en', 'nl'],
   },
 
   presets: [
@@ -48,6 +48,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
+          editLocalizedFiles: true,
           editUrl:
             'https://github.com/dehjvg/docu/blob/master/',
         },
