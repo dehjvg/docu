@@ -2,17 +2,17 @@
 sidebar_position: 1
 ---
 
-# Sponsor a server
+# Sponsor een server
 
-this page is still work in progress.
-
-
-You can sponsor a new server when all other servers have 3 farms + Global Cargo HR ore more.
-
-- When you sponsor a server you can decide on which map that server will run (if approved by us)
+Deze pagina is nog in ontwikkeling.
 
 
-when you want to sponsor a server you can contact hjvg.
-the first month you have to pay €40,- and after that each month €20,- this is so we know for sure we can keep the server up for 2 months. so when you stop donating we can keep it 1 month up and try to find a other sponsor for it.
+Je kunt een nieuwe server sponsoren als alle andere servers 3 farms + Global Cargo HR of meer hebben.
 
-Global Cargo is not making any money on it all money goes to the server payment.
+- Wanneer je een server sponsort kun je beslissen op welke map die server zal draaien (mits goedgekeurd door ons)
+
+
+Wanneer u een server wilt sponsoren kunt u contact opnemen met hjvg.
+De eerste maand moet je €40,- betalen en daarna elke maand €20,- dit is zodat we zeker weten dat we de server 2 maanden up kunnen houden. dus als je stopt met doneren kunnen we hem 1 maand up houden en proberen er een andere sponsor voor te vinden.
+
+Global Cargo verdient er niets aan, al het geld gaat naar de betaling van de server.

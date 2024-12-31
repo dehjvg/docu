@@ -2,26 +2,26 @@
 sidebar_position: 1
 ---
 
-# General Info
+# Algemene informatie
 
-Everyone playing on the Global Cargo servers starts as a Contractor. 
-You can choose to remain a Contractor, progress to Co-op Farming, or becoming a Farm Manager.
-Contractors can assist farmers by taking on contracts or handling exports. 
-However, Contractors are not allowed to perform tasks on farms unless there is an active contract or export available for it.
+Iedereen die op de Global Cargo-servers speelt, begint als Contractor.
+Je kunt ervoor kiezen om Contractor te blijven, door te stromen naar Co-op Farming of Farm Manager te worden.
+Contractors kunnen boeren helpen door contracten aan te nemen of export af te handelen.
+Contractors mogen echter geen taken uitvoeren op boerderijen, tenzij er een actief contract of export voor beschikbaar is.
 
-Becoming a Co-op Farmer
-A Co-owner is someone who gains rights to a farm and is allowed to invest money into it. 
-The distribution of profits must be arranged between the Co-owner and the farm owner. 
-However, a Co-owner does not receive the 800,000 to start a farm and cannot start their own farm while they remain a Co-owner. 
-If they later decide to start their own farm, they will receive the 800,000 if it’s their first time. 
-Both the Co-owner and Owner can pay each other for work done, but the Owner remains responsible for the overall management and operations of the farm.
+Coöperatieboer worden
+Een mede-eigenaar is iemand die rechten krijgt op een boerderij en er geld in mag investeren.
+De verdeling van de winst moet worden geregeld tussen de mede-eigenaar en de eigenaar van de boerderij.
+Een mede-eigenaar krijgt echter niet de 800.000 om een boerderij te beginnen en kan geen eigen boerderij beginnen zolang hij mede-eigenaar is.
+Als ze later besluiten om hun eigen boerderij te beginnen, ontvangen ze de 800.000 als het hun eerste keer is.
+Zowel de mede-eigenaar als de eigenaar kunnen elkaar betalen voor werk, maar de eigenaar blijft verantwoordelijk voor het algehele beheer en de activiteiten van de boerderij.
 
-Becoming Farm Manager
-As mentioned above, you can grow your own farm by making money through helping other farmers. 
-When you reach 150,000 in earnings, you can request to own your own farm.
-You will keep the money you earned, and you’ll also receive an extra 800,000 to start with.
+Boerderijmanager worden
+Zoals hierboven vermeld, kun je je eigen boerderij laten groeien door geld te verdienen door andere boeren te helpen.
+Als je 150.000 hebt verdiend, kun je je eigen boerderij aanvragen.
+Je behoudt het geld dat je hebt verdiend en je krijgt ook nog eens 800.000 extra om mee te beginnen.
 
-Currently, we have 3 servers, and each server can host 1 HR farm and 6 regular farms. 
-When all 3 servers have more than 4 farms on them, you can choose to sponsor a new server or join one of the existing servers that still have available space. 
-More information about servers can be found under the "Servers" section.
-Instructions on how to complete a contract or export can be found in other documents.
+Op dit moment hebben we 3 servers en elke server kan 1 HR farm en 6 reguliere farms hosten.
+Als er op alle 3 de servers meer dan 4 farms staan, kun je ervoor kiezen om een nieuwe server te sponsoren of je aan te sluiten bij een van de bestaande servers die nog ruimte over hebben.
+Meer informatie over servers kun je vinden onder “Servers”.
+Instructies voor het invullen van een contract of export kun je vinden in andere documenten.

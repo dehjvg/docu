@@ -2,31 +2,32 @@
 sidebar_position: 3
 ---
 
-# Do a Export
+# Een export doen
 
-##What is a export?
+##Wat is export?
 
-An export in farming simulator refers to a farm Manager selling their crops to Global Cargo for distribution to global markets.
-Once the export is made, it will be added to a TruckWeb mission, meaning the crops need to be transported via Euro Truck Simulator or American Truck Simulator in order for the farmer to be paid.
+Een export in farming simulator verwijst naar een boerderij manager die zijn gewassen verkoopt aan Global Cargo voor distributie naar wereldwijde markten.
+Zodra de export is gemaakt, wordt het toegevoegd aan een TruckWeb missie, wat betekent dat de gewassen moeten worden vervoerd via Euro Truck Simulator of Amerikaanse Truck Simulator om de boer te kunnen betalen.
 
-## What is in it for me?
+## Wat zit er voor mij in?
 
-As a Contractor, you need to check the amounts of crops and sell them in farming. 
-An Export always pays you 5,000 and is usually completed within the hour, making it the easiest way to make money as a contractor. 
-Farmers who don’t have their farm on that server can also complete these exports.
-Note: Export on a server where you are farm manager are not allowed!
+Als Contractor moet je de hoeveelheden gewassen controleren en ze verkopen in farming.
+Een Export betaalt je altijd 5.000 en is meestal binnen het uur afgerond, waardoor het de makkelijkste manier is om geld te verdienen als contractor.
+Boeren die hun boerderij niet op die server hebben, kunnen deze export ook voltooien.
+Opmerking: Exporteren op een server waar je farm manager bent is niet toegestaan!
 
-## How does an Export work?
+## Hoe werkt een export?
 
-In the Farming-contractor Discord channel, a message is posted whenever a new export is available, or you can check [TrucksWeb](https://trucksweb.globalcargovtc.com/farming/export/overview/) for a list of open exports that can still be done.
+In het Farming-contractor Discord kanaal wordt een bericht geplaatst wanneer er een nieuwe export beschikbaar is, of je kunt kijken op [TrucksWeb](https://trucksweb.globalcargovtc.com/farming/export/overview/) voor een lijst met open exports die nog gedaan kunnen worden.
 
-Exports are always completed by joining the correct server and the Global Cargo HR Farm.
+Exporten worden altijd voltooid door lid te worden van de juiste server en de Global Cargo HR Farm.
 
-Steps for completing an export:
+Stappen voor het voltooien van een export:
 
-1. Before accepting the export, check if you see the correct crop and the right amount (or more) in the export building.
-   ![export building](./images/export.png)
-   If the crop and quantity are correct, you can accept the export.
-2. Drive the required amount of crops to the designated sell point, making sure you're in the Global Cargo HR Farm.
-3. If you're working on an export and need to leave suddenly, remember how much you've already transported and keep the export open so you can complete it when you return.( We ask you not to leave the contract open for to long).
-4. Once you complete the export, the crops will be transported to our VTC (Virtual Trucking Company) part, and you will get paid for your work.
+
+1. Controleer voordat je de export accepteert of je de juiste uitsnede en de juiste hoeveelheid (of meer) in het exportgebouw ziet.
+   ![export gebouw](./images/export.png)
+   Als de uitsnede en de hoeveelheid correct zijn, kun je de export accepteren.
+2. Rijd de vereiste hoeveelheid gewassen naar het aangewezen verkooppunt en zorg ervoor dat je in de Global Cargo HR Farm bent.
+3. Als je bezig bent met een export en plotseling weg moet, onthoud dan hoeveel je al hebt getransporteerd en houd de export open zodat je deze kunt voltooien als je terugkomt (we vragen je om het contract niet te lang open te laten staan).
+4. Zodra je de export hebt voltooid, worden de gewassen naar ons VTC-gedeelte (Virtual Trucking Company) vervoerd en krijg je betaald voor je werk.

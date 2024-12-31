@@ -4,6 +4,6 @@ sidebar_position: 1
 
 # Servers
 
-We got multiple server the settings to find the servers in game are: 
+We hebben meerdere servers, de instellingen om de servers in het spel te vinden zijn:
 
 ![find server](./images/find-server.png)
