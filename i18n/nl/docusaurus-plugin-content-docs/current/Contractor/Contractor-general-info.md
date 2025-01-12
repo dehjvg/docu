@@ -18,7 +18,7 @@ Zowel de mede-eigenaar als de eigenaar kunnen elkaar betalen voor werk, maar de 
 
 Boerderijmanager worden
 Zoals hierboven vermeld, kun je je eigen boerderij laten groeien door geld te verdienen door andere boeren te helpen.
-Als je 150.000 hebt verdiend, kun je je eigen boerderij aanvragen.
+Als je 100.000 hebt verdiend, kun je je eigen boerderij aanvragen.
 Je behoudt het geld dat je hebt verdiend en je krijgt ook nog eens 800.000 extra om mee te beginnen.
 
 Op dit moment hebben we 3 servers en elke server kan 1 HR farm en 6 reguliere farms hosten.
