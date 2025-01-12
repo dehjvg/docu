@@ -18,7 +18,7 @@ Both the Co-owner and Owner can pay each other for work done, but the Owner rema
 
 Becoming Farm Manager
 As mentioned above, you can grow your own farm by making money through helping other farmers. 
-When you reach 150,000 in earnings, you can request to own your own farm.
+When you reach 100,000 in earnings, you can request to own your own farm.
 You will keep the money you earned, and you’ll also receive an extra 800,000 to start with.
 
 Currently, we have 3 servers, and each server can host 1 HR farm and 6 regular farms. 

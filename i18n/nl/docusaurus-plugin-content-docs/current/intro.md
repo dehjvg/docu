@@ -7,7 +7,7 @@ sidebar_position: 1
 Bij Global Cargo zijn we er trots op dat we een dynamisch farming systeem hosten voor onze Virtual Trucking Company (VTC)-leden. Of je nu net begint of je eigen farming imperium wilt uitbreiden, ons systeem is ontworpen om je inspanningen te ondersteunen en te belonen.
 
 Begin als contractant
-Elk nieuw lid begint zijn reis als contractor. Je doel? Verdien 150.000 met contracten om de mogelijkheid vrij te spelen om je eigen boerderij op te zetten. Je bent echter vrij om zelfs na het bereiken van deze mijlpaal een contractant te blijven als je de voorkeur geeft aan de contract levensstijl.
+Elk nieuw lid begint zijn reis als contractor. Je doel? Verdien 100.000 met contracten om de mogelijkheid vrij te spelen om je eigen boerderij op te zetten. Je bent echter vrij om zelfs na het bereiken van deze mijlpaal een contractant te blijven als je de voorkeur geeft aan de contract levensstijl.
 
 Bouw je boerderij of werk samen
 Als je genoeg hebt verdiend, kun je ervoor kiezen om je eigen boerderij te bouwen of door te gaan met het ondersteunen van anderen als contractant. Teamwork wordt aangemoedigd, dus je kunt ook samenwerken met andere boeren om samen meer succes te behalen.

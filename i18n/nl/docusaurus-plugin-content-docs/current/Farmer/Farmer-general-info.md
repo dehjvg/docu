@@ -4,15 +4,15 @@ sidebar_position: 1
 
 # Farmer Algemeen
 
-Als je 150.000 hebt verdiend als contractor kun je een Farmer worden. Je kan het aanvragen door het in het farming kanaal te vragen of hjvg een pm te sturen.
+Als je 100.000 hebt verdiend als contractor kun je een Farmer worden. Je kan het aanvragen door het in het farming kanaal te vragen of hjvg een pm te sturen.
 Voordat je een bericht stuurt om farmer te worden moet je kijken op welke server je wilt zijn of dat je een nieuwe server wilt sponsoren (meer hierover in de server sectie).
 
 
 ## Hoe werkt het?
 
-Als je 150.000 hebt verdiend als contractor heb je ons laten zien dat je hier voor de lange termijn bent en niet voor een dag, want het opzetten van farms en servers kost ons ook tijd. Natuurlijk wil je nu meteen beginnen, dat begrijpen we, maar het kan nog steeds een dag of 2 duren omdat jij en de admin die je instelt tegelijkertijd online moeten zijn.
+Als je 100.000 hebt verdiend als contractor heb je ons laten zien dat je hier voor de lange termijn bent en niet voor een dag, want het opzetten van farms en servers kost ons ook tijd. Natuurlijk wil je nu meteen beginnen, dat begrijpen we, maar het kan nog steeds een dag of 2 duren omdat jij en de admin die je instelt tegelijkertijd online moeten zijn.
 
-Dus je hebt op andere servers gekeken of er nog ruimte was farming 25 biedt 6 farm slots +1 voor Global Cargo HR Farm. En we hebben tijd om je in te stellen. Je krijgt de naam van de farm die je hebt gekozen toen je je aanmeldde in het spel. Omdat we blij zijn dat je 150.000 of meer hebt gehaald en het de eerste keer is dat je een farm start krijg je 800.000 van ons om mee te beginnen. Wanneer we je opzetten krijg je de volledige rechten voor je boerderij (verlaat je boerderij niet meer want dan verdwijnen je rechten) Met het geld dat je hebt kun je doen wat je wilt, velden en apparatuur kopen. Je bent verantwoordelijk voor je boerderij dus je bepaalt zelf hoe je je boerderij runt binnen de regels natuurlijk.
+Dus je hebt op andere servers gekeken of er nog ruimte was farming 25 biedt 6 farm slots +1 voor Global Cargo HR Farm. En we hebben tijd om je in te stellen. Je krijgt de naam van de farm die je hebt gekozen toen je je aanmeldde in het spel. Omdat we blij zijn dat je 100.000 of meer hebt gehaald en het de eerste keer is dat je een farm start krijg je 800.000 van ons om mee te beginnen. Wanneer we je opzetten krijg je de volledige rechten voor je boerderij (verlaat je boerderij niet meer want dan verdwijnen je rechten) Met het geld dat je hebt kun je doen wat je wilt, velden en apparatuur kopen. Je bent verantwoordelijk voor je boerderij dus je bepaalt zelf hoe je je boerderij runt binnen de regels natuurlijk.
 
 ## Andere farmers
 
