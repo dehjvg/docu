@@ -12,7 +12,7 @@ Once the export is made, it will be added to a TruckWeb mission, meaning the cro
 ## What is in it for me?
 
 As a Contractor, you need to check the amounts of crops and sell them in farming. 
-An Export always pays you 5,000 and is usually completed within the hour, making it the easiest way to make money as a contractor. 
+An Export pays you 750 (max 3500 for 1 export) for each freight you have to do and is usually completed within the hour, making it the easiest way to make money as a contractor. 
 Farmers who don’t have their farm on that server can also complete these exports.
 Note: Export on a server where you are farm manager are not allowed!
 
