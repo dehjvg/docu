@@ -7,8 +7,7 @@ sidebar_position: 1
 At Global Cargo, we’re proud to host a dynamic farming system for our Virtual Trucking Company (VTC) members. Whether you’re just starting out or looking to grow your own farming empire, our system is designed to support and reward your efforts.
 
 <p>
-    <iframe width="100%" height="340" src="https://www.youtube-nocookie.com/embed/1-xhV3qcbzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <iframe width="100%" height="340" src="https://www.youtube-nocookie.com/embed/1-xhV3qcbzs" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" height="680" src="https://www.youtube-nocookie.com/embed/1-xhV3qcbzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 
 Start as a Contractor
