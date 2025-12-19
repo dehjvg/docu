@@ -6,7 +6,7 @@ sidebar_position: 1
 
 At Global Cargo, we’re proud to host a dynamic farming system for our Virtual Trucking Company (VTC) members. Whether you’re just starting out or looking to grow your own farming empire, our system is designed to support and reward your efforts.
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/undefined" title="" frameBorder="0"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowFullScreen><br></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/undefined" title="" frameBorder="0"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowFullScreen></iframe></p>
 
 Start as a Contractor
 Every new member begins their journey as a contractor. Your goal? Earn 100,000 through contracts to unlock the ability to establish your very own farm. However, you’re free to remain a contractor even after reaching this milestone if you prefer the contract lifestyle.
